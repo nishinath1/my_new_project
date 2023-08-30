@@ -1,0 +1,1 @@
+Git hub is a cloud_based hosting service that hels us to manage git repositories.
